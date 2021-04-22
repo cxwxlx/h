@@ -1,0 +1,30 @@
+**Dogecoin Wallet**
+
+It is a good idea to be in control of your coins, and to not keep them in an exchange for any longer than necessary. If the company collapses, good luck getting your coins back!
+
+<:dogecoin:626854785424949248> **Dogecoin Core** maintained by the Core Developers - Follow the links on https://dogecoin.com/ **Make sure to follow the bootstrap instructions next!**
+The full node and wallet software maintained by the dev team.
+
+<:chrome:549006387934658580> **Dogechain online wallet** - https://my.dogechain.info/
+Light wallets should not be used by miners or those receiving payouts from faucets, as these large transactions can cause the wallet to slow down due to their size. They can be quicker to setup though and you don't need to store the entire chain. This one works in the browser.
+
+<:multidoge:805116591896264745> **MultiDoge light wallet** (does not work on ARM macOS) - https://multidoge.org/
+This is another "light" wallet which you can download to your PC and store your private keys offline.
+
+<:android:805501729541324820> **Dogecoin Android Wallet**
+Google Play - https://play.google.com/store/apps/details?id=de.langerhans.wallet
+F-Droid - https://f-droid.org/packages/de.langerhans.wallet/
+Another "light" wallet but this time for Android! Again, don't use this for mining or collecting from faucets with large transactions.
+
+**Coinbase Wallet** - https://wallet.coinbase.com/
+Coinbase supports storing Dogecoins in their wallet (keep in mind although Coinbase offers trading cryptocurrency, you cannot trade Dogecoin on Coinbase).
+
+**Coinomi** - https://www.coinomi.com/
+Coinomi is a cross-platform wallet which supports many coins including Dogecoin.
+
+**Exodus** - https://www.exodus.com/
+This wallet supports Dogecoin, but the transaction fees are bugged and are often much higher than other wallets. exodus pls fix.
+
+
+**⚠️ Safety**
+Always practice taking and restoring backups. We don't want you to lose your coins or have them stolen!
